@@ -8,6 +8,6 @@ OpenCV library
 
 To use this project, follow these steps:
 1.Clone this repository to your local machine.
-2.Open a terminal or command prompt and navigate to the project directory.
-3.Run the following command to start the project: invisible_cloak.py
+2.Open a terminal or command prompt and navigate to the project directory : cd C:\path\to\project\directory
+3.Run the following command to start the project: Hogwards Invisible Cloak.py
 4. To stop the project, press the 'Space bar' key.
