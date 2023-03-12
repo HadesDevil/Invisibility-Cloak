@@ -41,7 +41,7 @@ while True:
     cv2.imshow("final",green_screen)
     
     k=cv2.waitKey(1)
-    if k==ord('q'):
+    if k==ord(' '):
         break
 
 video.release()
