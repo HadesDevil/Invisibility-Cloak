@@ -8,7 +8,6 @@ OpenCV library
 
 To use this project, follow these steps:
 1.Clone this repository to your local machine.
-2.Connect your webcam or any other camera to your computer.
-3.Open a terminal or command prompt and navigate to the project directory.
-4.Run the following command to start the project: invisible_cloak.py
-5. To stop the project, press the 'q' key.
+2.Open a terminal or command prompt and navigate to the project directory.
+3.Run the following command to start the project: invisible_cloak.py
+4. To stop the project, press the 'Space bar' key.
